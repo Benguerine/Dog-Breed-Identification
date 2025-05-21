@@ -1,0 +1,6 @@
+
+# Ignore data and zip files
+Data/
+*.zip
+*.h5
+*.ckpt
