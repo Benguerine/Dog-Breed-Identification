@@ -16,12 +16,5 @@ To run this project, you will need the following packages installed:
 
 ```bash
 pip install tensorflow tensorflow-hub
-
-Dog-Breed-Identification/
-│
-├── Data/                   # Dataset files (excluded from Git due to size)
-├── Model/                  # Model training and evaluation notebooks
-├── README.md               # This file
-├── .gitignore              # Ignored files/folders (e.g., Data/)
-├── requirements.txt        # Python dependencies
+```
 
