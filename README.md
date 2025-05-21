@@ -17,4 +17,9 @@ To run this project, you will need the following packages installed:
 ```bash
 pip install tensorflow tensorflow-hub
 ```
+or
+```base
+pip install -r requirements.txt
+```
+
 
