@@ -8,4 +8,4 @@ In this playground competition, you are provided a strictly canine subset of Ima
 
 ## Example Image
 
-![Dog Example]([https://your-image-link.com/image.jpg](https://storage.googleapis.com/kaggle-media/competitions/kaggle/3333/media/border_collies.png))
+![Dog Example](https://storage.googleapis.com/kaggle-media/competitions/kaggle/3333/media/border_collies.png)
