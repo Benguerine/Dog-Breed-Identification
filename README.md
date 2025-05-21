@@ -9,3 +9,10 @@ In this playground competition, you are provided a strictly canine subset of Ima
 ## Example Image
 
 ![Dog Example](https://storage.googleapis.com/kaggle-media/competitions/kaggle/3333/media/border_collies.png)
+
+## Installation
+
+To run this project, you will need the following packages installed:
+
+```bash
+pip install tensorflow tensorflow-hub
