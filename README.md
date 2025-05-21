@@ -22,6 +22,7 @@ or
 pip install -r requirements.txt
 ```
 ## Folder Structure
+```base
 Dog-Breed-Identification/
 │
 ├── Data/                   # Dataset files (excluded from Git due to size)
@@ -29,7 +30,7 @@ Dog-Breed-Identification/
 ├── README.md               # This file
 ├── .gitignore              # Ignored files/folders (e.g., Data/)
 ├── requirements.txt        # Python dependencies
-
+```
 
 ## Usage
 1. Clone this repository.
